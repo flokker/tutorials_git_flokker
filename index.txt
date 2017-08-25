@@ -2,6 +2,7 @@
 =======
 <html>
  <head>
+<meta charset >
 	<title> git 수업 예시추가 </title>
 </head>
 <body>
