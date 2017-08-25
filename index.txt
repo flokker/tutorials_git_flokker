@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+=======
+<html>
+ <head>
+	<title> git ¼ö¾÷ ¿¹½ÃÃß°¡ </title>
+</head>
+<body>
+<header>
+<h1> git</h1>
+</header>
+<ul>
+<li>ÀúÀå¼Ò</li>
+<li>¹öÀü</li>
+</ul>
+</html>
+>>>>>>> ì‹¤í—˜
