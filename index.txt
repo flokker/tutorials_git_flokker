@@ -15,7 +15,7 @@
 <li> 동기화 </li>
 <li? push </li>
 <li> add brench</li>
-
+<li> 또 추가! </li>
 <li>브랜치 </li>
 <li>충돌  </li>
 
